@@ -13,7 +13,6 @@ using namespace std;
 
 int main() {
     string str1, str2 , reverse;
-    bool isPalindrome = 1;
     cout << "Enter any 2 words (separated by space) : ";
     cin >> str1 >> str2;
     str1 = str1 + " " + str2;
