@@ -1,8 +1,8 @@
 # EXPERIMENT - 7 - ARRAYS & STRINGS IN C++
 
-# Aim: To study and implement fundamental array and string operations in C++.
+# Aim: To study and implement C++ Arrays and Strings.
 
-## Apparatus: VS Code or any C++ Compiler (GCC, Visual Studio, etc.)
+## Apparatus: VS Code or any C++ Compiler.
 
 ## Theory:
 
