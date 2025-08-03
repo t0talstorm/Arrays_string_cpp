@@ -18,7 +18,7 @@
 
 ```cpp
 int arr[5] = {1, 2, 3, 4, 5}; // Static array
-vector<int> dynamicArr;        // Dynamic array using STL
+vector<int> dynamicArr;         // Dynamic array using STL
 ```
 
 ### Strings in C++:
